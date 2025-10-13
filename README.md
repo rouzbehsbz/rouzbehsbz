@@ -4,24 +4,42 @@ You’d make me really happy if you checked out my YouTube channel, ***[DevDrug]
 
 feel free to [contact](https://t.me/rouzbehsbz) me if you want.
 
-#### The Ultimate God Level Roadmap
+### The Ultimate God Level Roadmap
 *The one roadmap that i can actually rest in peace after completing it*
 
-- [ ] 🖥️ Handmade 8-bit computer
+**Hardware / Emulator**
+- [ ] 🖥️ Handmade 8-bit Computer
 - [x] 🎮 Nintendo Entertainment System Emulator ([Rusty NES](https://github.com/rouzbehsbz/rusty-nes))
-- [x] 🧠 Brainfuck Interpreter ([Brainf Interpreter](https://github.com/rouzbehsbz/brainf-interpreter))
-- [ ] 📜 Programming Language
-- [ ] 🔧 Operating System
+
+**Operating System**
+- [ ] ⚙️ Mini Functional Kernel
 - [ ] 🌐 TCP/IP Stack
 - [ ] 📦 Containerization
+
+**Compiler / Interpreter**
+- [x] 🧠 Brainfuck Interpreter ([Brainf Interpreter](https://github.com/rouzbehsbz/brainf-interpreter))
+- [ ] 💬 OOP Programing Language
+- [ ] 🧰 Byte Code Virtual Machine
+
+**Distributed Systems**
 - [ ] ⛓️ VM-based Blockchain
-- [ ] 🌍 Web Browser
-- [x] 🕹️ Terminal based Game Engine ([Bitblade](https://github.com/rouzbehsbz/bitblade))
+- [ ] 📡 BitTorent Client
+
+**Database / Storage**
 - [x] 🔑 Redis Server (RESP Compatible) ([Rudis](https://github.com/rouzbehsbz/rudis))
 - [ ] 🗄️ SQL-based Database
+
+**Tools / Libraries**
 - [x] ⚡ High Performance Matching Engine ([Rusty Match](https://github.com/rouzbehsbz/rusty-match))
 - [x] 🐛 HTTP load testing and benchmarking tool ([Cicadas](https://github.com/rouzbehsbz/cicadas))
 - [x] 🔒 JavaScript Exclusive Resource Lock ([Mutex Guard](https://github.com/rouzbehsbz/mutex-guard))
+
+**GUI**
+- [ ] 🌍 Mini Web Browser
+
+**Game**
+- [x] 🕹️ Terminal based Game Engine ([Bitblade](https://github.com/rouzbehsbz/bitblade))
+- [ ] 🧱 Vulkan Based Game Engine with Lua Scripting Suppport
 - [ ] 🔫 Multiplayer Shooter Game 
 - [ ] 🏰 MMORPG Game
 
