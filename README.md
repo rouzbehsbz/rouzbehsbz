@@ -14,6 +14,9 @@ Things I’m interested in or working on right now — feel free to reach out if
 
 Things I’ve worked on so far:
 - 🕹️ Nintendo Entertainment System Emulator ([rusty-nes](https://github.com/rouzbehsbz/rusty-nes))
+- 🐉 High performance open source MMO game server ([manticore](https://github.com/rouzbehsbz/manticore))
+- 🏗️ A library for Entity Component System (ECS) architecture ([zurvan](https://github.com/rouzbehsbz/zurvan))
+- 🔄 Fast data-parallel iterator for Go ([spenta](https://github.com/rouzbehsbz/spenta))
 - 🧠 Brainfuck Interpreter ([brainf-interpreter](https://github.com/rouzbehsbz/brainf-interpreter))
 - 🗄️ Redis RESP Compatible Server ([rudis](https://github.com/rouzbehsbz/rudis))
 - 💱 Spot Market Match Engine ([rusty-match](https://github.com/rouzbehsbz/rusty-match))
